@@ -9,4 +9,4 @@
 >>access_check.lua（例）
 
 >>comm（通用包）
->>>redis_iresty.lua（例）
+>>>redis_iresty.lua（例）# LiteQuestionConsole
